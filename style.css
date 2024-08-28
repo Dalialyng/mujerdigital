@@ -1,0 +1,175 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 100%;
+}
+header ol li{
+    margin: 10px;
+    color: rgb(167, 204, 57);
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p{
+    font-size: 24px;
+    color: gold;
+}
+
+img {
+    width: 300px;
+}
+.contenedor{
+    display: flex;
+    flex-direction: row;
+    width: 100%; 
+    margin: 20px;
+    color: rgb(49, 49, 52);
+}
+
+.contenedor img {
+border-radius: 50%;
+margin: 30px;
+}
+.contenedor p{
+    margin: 30px;
+    color: rgb(15, 46, 134);
+    background-color: rgb(189, 243, 113);
+}
+
+.caja{
+    display: flex;
+    flex-direction: row;
+    width: 100%; 
+    margin: 20px;
+    color: rgb(49, 49, 52);
+}
+.caja img {
+    border-radius: 50%;
+    margin: 30px;
+    }
+.caja p{
+        margin: 30px;
+        color: rgb(15, 46, 134);
+    background-color: rgb(189, 243, 113);
+}
+
+.primer{
+    display: flex;
+    flex-direction: row;
+    width: 100%; 
+    margin: 20px;
+    color: rgb(49, 49, 52);
+}
+.primer img {
+border-radius: 50%;
+margin: 30px;
+}
+.primer p{
+    margin: 30px;
+    color: rgb(234, 81, 137);
+    background-color: rgb(87, 50, 34);
+}
+
+.segundo{
+    display: flex;
+    flex-direction: row;
+    width: 100%; 
+    margin: 20px;
+    color: rgb(49, 49, 52);
+}
+.segundo img {
+border-radius: 50%;
+margin: 30px;
+}
+.segundo p{
+    margin: 30px;
+    color: rgb(188, 131, 45);
+    background-color: rgb(120, 200, 231);
+}
+
+.tercero{
+    display: flex;
+    flex-direction: row;
+    width: 100%; 
+    margin: 20px;
+    color: rgb(49, 49, 52);
+}
+.tercero img {
+border-radius: 50%;
+margin: 30px;
+}
+.tercero p{
+    margin: 30px;
+    color: rgb(72, 78, 14);
+    background-color: rgb(243, 243, 67);
+}
+
+.cuarto{
+    display: flex;
+    flex-direction: row;
+    width: 100%; 
+    margin: 20px;
+    color: rgb(49, 49, 52);
+}
+.cuarto img {
+border-radius: 50%;
+margin: 30px;
+}
+.cuarto p{
+    margin: 30px;
+    color: rgb(137, 11, 168);
+    background-color: rgb(246, 184, 222);
+}
+
+.tema h1{
+    font-family: "Lexend", sans-serif;
+    color: rgb(166, 234, 97);
+    margin: 20px 0px 20px 0px;
+}
+.tema p{
+    font-family: "Kalnia Glaze", serif;
+    color: gold;
+    margin: 20px 0px 30px 0px;
+}
+.extra h1{
+    font-family: "Lexend", sans-serif;
+    color: rgb(166, 234, 97);
+    margin: 20px 0px 10px 0px;
+}
+.extra p{
+    font-family: "Kalnia Glaze", serif;
+    color: gold;
+    margin-bottom: 20px;
+}
+.autor{
+    font-family: "Mystery Quest", system-ui;
+    color: rgb(109, 10, 148);
+}
+footer p{
+    font-family: "Mystery Quest", system-ui;
+    color: rgb(60, 6, 81);
+}
+.intro h2{
+    font-family: "Lexend", sans-serif;
+    color: rgb(166, 234, 97);
+    margin: 20px 0px 20px 0px;
+}
+.tipos h2{
+    font-family: "Lexend", sans-serif;
+    color: rgb(166, 234, 97);
+    margin: 30px 0px 20px 0px;
+}
+
+.metodos h2{
+    font-family: "Lexend", sans-serif;
+    color: rgb(166, 234, 97);
+    margin: 20px 0px 30px 0px;
+}
+.metodos p{
+    margin-bottom: 50px;
+}
+.metodos img{
+    margin: 20px;
+}
